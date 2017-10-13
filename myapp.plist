@@ -38,7 +38,7 @@
    <dict>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>com.weiki.test.demo</string>
+    <string>jp.co.nttdata.appbanking.shinkin.ios</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
     <string>1.0.0</string>
